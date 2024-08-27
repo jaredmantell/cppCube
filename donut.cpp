@@ -27,7 +27,6 @@ void drawDonut() {
 
 
     // Draw one large donut
-
     for (j = 0; j < 6.28f; j += 0.07f) {
         for (i = 0; i < 6.28f; i += 0.02f) {
 
