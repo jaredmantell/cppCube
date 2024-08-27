@@ -1,0 +1,28 @@
+2024-08-19 12:17:23,514 - INFO - GestureRecognizer initialized
+2024-08-19 12:17:24,172 - INFO - Processing first frame: shape=(480, 640, 3), dtype=uint8
+2024-08-19 12:17:24,172 - INFO - First few pixels: [[24 33 34]
+ [23 32 33]
+ [25 34 36]
+ [25 34 36]
+ [23 32 33]]
+2024-08-19 12:20:45,547 - INFO - GestureRecognizer initialized
+2024-08-19 12:20:46,192 - INFO - Processing first frame: shape=(480, 640, 3), dtype=uint8
+2024-08-19 12:20:46,192 - INFO - First few pixels: [[18 27 29]
+ [17 26 27]
+ [18 27 29]
+ [18 27 29]
+ [19 28 30]]
+2024-08-20 12:48:36,014 - INFO - GestureRecognizer initialized
+2024-08-20 12:48:36,424 - INFO - Processing first frame: shape=(480, 640, 3), dtype=uint8
+2024-08-20 12:48:36,425 - INFO - First few pixels: [[120 134 144]
+ [124 136 146]
+ [126 136 146]
+ [124 132 142]
+ [126 134 143]]
+2024-08-20 13:38:06,800 - INFO - GestureRecognizer initialized
+2024-08-20 13:38:07,219 - INFO - Processing first frame: shape=(480, 640, 3), dtype=uint8
+2024-08-20 13:38:07,220 - INFO - First few pixels: [[106 107 114]
+ [108 108 115]
+ [110 109 117]
+ [118 116 124]
+ [121 119 127]]

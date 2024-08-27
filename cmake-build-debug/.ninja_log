@@ -1,0 +1,16 @@
+# ninja log v5
+16	1058	7457538359295670	CMakeFiles/magicRuben.dir/donut.cpp.obj	92f571185241dede
+13	1060	7457538359315696	CMakeFiles/magicRuben.dir/cube.cpp.obj	f341bd8400b9278a
+1	1121	7457538359935719	CMakeFiles/magicRuben.dir/pyramid.cpp.obj	62f56a20755fb191
+4	1060	7457538359315696	CMakeFiles/magicRuben.dir/common.cpp.obj	25c92281b5af162b
+5000	5384	7457890108469562	magicRuben.exe	8370d537ec6226cc
+3	4998	7457890105249564	CMakeFiles/magicRuben.dir/main.cpp.obj	3e62c1869985335b
+9	4223	7457555869844064	CMakeFiles/magicRuben.dir/gesture_wrapper.cpp.obj	d93df837008d2878
+4	373	7457901946526184	build.ninja	19dc0871ca9ec309
+18	1398	7457902194950909	CMakeFiles/magicRuben.dir/cube.cpp.obj	f341bd8400b9278a
+9	1401	7457902194980922	CMakeFiles/magicRuben.dir/common.cpp.obj	25c92281b5af162b
+29	1415	7457902195130910	CMakeFiles/magicRuben.dir/donut.cpp.obj	92f571185241dede
+23	1463	7457902195600956	CMakeFiles/magicRuben.dir/pyramid.cpp.obj	62f56a20755fb191
+13	4573	7457902226646424	CMakeFiles/magicRuben.dir/gesture_wrapper.cpp.obj	d93df837008d2878
+3	4645	7457902227414583	CMakeFiles/magicRuben.dir/main.cpp.obj	3e62c1869985335b
+4646	4954	7457902230392668	magicRuben.exe	8370d537ec6226cc

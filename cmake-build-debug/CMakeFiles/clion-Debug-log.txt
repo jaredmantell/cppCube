@@ -1,0 +1,39 @@
+"C:\Program Files\JetBrains\CLion 2023.3.2\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=C:/Program Files/JetBrains/CLion 2023.3.2/bin/ninja/win/x64/ninja.exe" -DOpenCV_DIR=C:/opencv/opencv/build -Dpybind11_DIR=C:/Users/Jared/AppData/Local/Programs/Python/Python310/Lib/site-packages/pybind11/share/cmake/pybind11 -DPYBIND11_PYTHON_VERSION=3.10 -DBUILD_PYTHON_PACKAGE=ON -G Ninja -S C:\Users\Jared\CLionProjects\untitled2 -B C:\Users\Jared\CLionProjects\untitled2\cmake-build-debug
+-- The C compiler identification is MSVC 19.38.33134.0
+-- The CXX compiler identification is MSVC 19.38.33134.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Program Files/Microsoft Visual Studio/2022/Community/VC/Tools/MSVC/14.38.33130/bin/Hostx64/x64/cl.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- OpenCV ARCH: x64
+-- OpenCV RUNTIME: vc16
+-- OpenCV STATIC: OFF
+-- Found OpenCV: C:/opencv/opencv/build (found version "4.10.0") 
+-- Found OpenCV 4.10.0 in C:/opencv/opencv/build/x64/vc16/lib
+-- You might need to add C:\opencv\opencv\build\x64\vc16\bin to your PATH to be able to run your applications.
+-- Found Python3: C:/Users/Jared/AppData/Local/Programs/Python/Python310/python.exe (found version "3.10.9") found components: Interpreter Development Development.Module Development.Embed 
+-- Performing Test HAS_MSVC_GL_LTCG
+-- Performing Test HAS_MSVC_GL_LTCG - Success
+-- Found pybind11: C:/Users/Jared/AppData/Local/Programs/Python/Python310/Lib/site-packages/pybind11/include (found version "2.13.4")
+-- OpenCV_FOUND: 1
+-- OpenCV_VERSION: 4.10.0
+-- Python3_FOUND: TRUE
+-- Python3_VERSION: 3.10.9
+-- pybind11_FOUND: 1
+-- pybind11_VERSION: 2.13.4
+-- Configuring done (3.9s)
+-- Generating done (0.0s)
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    BUILD_PYTHON_PACKAGE
+    PYBIND11_PYTHON_VERSION
+
+
+-- Build files have been written to: C:/Users/Jared/CLionProjects/untitled2/cmake-build-debug

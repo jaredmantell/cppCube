@@ -1,0 +1,10 @@
+^C:\USERS\JARED\CLIONPROJECTS\UNTITLED2\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Jared/CLionProjects/untitled2 -BC:/Users/Jared/CLionProjects/untitled2/build --check-stamp-file C:/Users/Jared/CLionProjects/untitled2/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
